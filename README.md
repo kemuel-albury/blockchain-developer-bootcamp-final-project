@@ -1,3 +1,3 @@
 # blockchain-developer-bootcamp-final-project
-## CrowdFunding Platform
-I will create a crowdfunding platform that runs on testnet.
+## TimeLocked Wallet
+I will create a timelocked wallet platform that runs on testnet.
