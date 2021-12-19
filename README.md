@@ -4,7 +4,7 @@
 
 - `cd front_end`
 - `yarn install`
-- `yarn start`
+- `yarn run start`
 - Open `http://localhost:3000`
 
 ## Environment variables (not needed for running project locally)
