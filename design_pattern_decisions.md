@@ -2,8 +2,8 @@
 
 ## Access Control Design Patterns
 
-- `Ownable` design pattern used in three functions:  `function setPriceFeedContract(address _token, address _priceFeed)
-`, `issueTokens()` and `addAllowedTokens(address _token)`. The functions listed shouldn't be used by non-contract creators.
+- `Ownable` design pattern used in three functions:  `function setPriceFeedContract()
+`, `issueTokens()` and `addAllowedTokens()`. The functions listed shouldn't be used by non-contract creators.
 
 ## Inheritance and Interfaces
 
