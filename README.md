@@ -17,8 +17,10 @@
 ## Environment variables (not needed for running tests)
 
 ```
-ROPSTEN_INFURA_PROJECT_ID=
-ROPSTEN_MNEMONIC=
+export PRIVATE_KEY=
+export WEB3_INFURA_PROJECT_ID=
+SKIP_PREFLIGHT_CHECK=true
+ETHERSCAN_TOKEN=
 ```
 
 
