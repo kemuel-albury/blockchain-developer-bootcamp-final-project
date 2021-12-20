@@ -14,7 +14,7 @@
 ## Simple workflow
 1.
 
-## Environment variables (not needed for running project locally)
+## Environment variables (not needed for running tests)
 
 ```
 ROPSTEN_INFURA_PROJECT_ID=
