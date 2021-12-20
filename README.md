@@ -7,6 +7,8 @@
 - `yarn run start`
 - Open `http://localhost:3000`
 
+## Project description
+
 ## Environment variables (not needed for running project locally)
 
 ```
