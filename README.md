@@ -4,6 +4,13 @@
 
 https://final-project-xyoungsavagex.netlify.app
 
+## How to run this project locally:
+
+### Prerequisites
+- Yarn
+- Node.js >= v16.13.0
+- Brownie
+
 ### Frontend
 
 - `cd front_end`
