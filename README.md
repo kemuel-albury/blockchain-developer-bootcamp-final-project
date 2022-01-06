@@ -18,6 +18,9 @@ https://final-project-xyoungsavagex.netlify.app
 - `yarn run start`
 - Open `http://localhost:3000`
 
+## Screencast link
+
+
 ## Project description
 - This application allow users to stake/deposit their ERC20 token into this TokenFarm contract.
 - Users can use this application to invest in a defi protocol to gain interest, build a yield aggregator and more!
