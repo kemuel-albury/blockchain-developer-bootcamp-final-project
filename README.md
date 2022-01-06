@@ -28,7 +28,9 @@ https://final-project-xyoungsavagex.netlify.app
 ## Simple workflow
 1. Open the website
 2. Login with MetaMask
-3. 
+
+
+## Directory structure
 
 ## Environment variables (not needed for running tests)
 
