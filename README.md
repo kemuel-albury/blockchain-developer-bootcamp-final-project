@@ -1,5 +1,9 @@
 # Final project - Token Farm
 
+## Deployed version url:
+
+https://final-project-xyoungsavagex.netlify.app
+
 ### Frontend
 
 - `cd front_end`
