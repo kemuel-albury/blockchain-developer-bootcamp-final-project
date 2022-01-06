@@ -16,7 +16,9 @@ https://final-project-xyoungsavagex.netlify.app
 - Users can use this application to invest in a defi protocol to gain interest, build a yield aggregator and more!
 
 ## Simple workflow
-1.
+1. Open the website
+2. Login with MetaMask
+3. 
 
 ## Environment variables (not needed for running tests)
 
