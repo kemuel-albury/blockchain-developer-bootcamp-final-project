@@ -27,7 +27,8 @@ https://final-project-xyoungsavagex.netlify.app
 
 ## Simple workflow
 1. Open the website
-2. Login with MetaMask
+2. Login with MetaMask on the Rinkeby Network
+3. 
 
 
 ## Directory structure
