@@ -26,10 +26,18 @@ https://youtu.be/KHewveZf7OY
 - Users can use this application to invest in a defi protocol to gain interest, build a yield aggregator and more!
 
 ## Simple workflow
+### To Stake Tokens
 1. Open the website
 2. Login with MetaMask on the Rinkeby Network
-3. To get Mock DAI(FAU) in your wallet, visit https://erc20faucet.com/.
-4. 
+3. To get **Mock DAI(FAU)** in your wallet, visit https://erc20faucet.com/.
+4. Input your address, choose any amount of tokens you would like to mint and hit Connect and choose MetaMask as your Web3 Wallet.
+5. Select **Mint Free Tokens**.
+6. Go back to the **DAI** tab in **My Wallet** Section.
+7. Choose an amount of **DAI Tokens** you would like to stake and select the stake button.
+
+### To Unstake All Tokens
+1. In **The TokenFarm Contract** section, choose a `token` to unstake.
+2. Select the **Unstake all `token`** button to unstake tokens.
 
 
 ## Directory structure
