@@ -19,7 +19,7 @@ https://final-project-xyoungsavagex.netlify.app
 - Open `http://localhost:3000`
 
 ## Screencast link
-
+https://youtu.be/KHewveZf7OY
 
 ## Project description
 - This application allow users to stake/deposit their ERC20 token into this TokenFarm contract.
@@ -28,7 +28,8 @@ https://final-project-xyoungsavagex.netlify.app
 ## Simple workflow
 1. Open the website
 2. Login with MetaMask on the Rinkeby Network
-3. 
+3. To get Mock DAI(FAU) in your wallet, visit https://erc20faucet.com/.
+4. 
 
 
 ## Directory structure
