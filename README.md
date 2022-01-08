@@ -56,11 +56,10 @@ https://youtu.be/KHewveZf7OY
 - `test`: Tests for smart contracts.
 ## Environment variables (not needed for running tests)
 
-```
-export PRIVATE_KEY=
-export WEB3_INFURA_PROJECT_ID=
+```bash
+export WEB3_INFURA_PROJECT_ID=<PROJECT_ID>
+export PRIVATE_KEY=<PRIVATE_KEY>
+export ETHERSCAN_TOKEN=<YOUR_TOKEN>
 SKIP_PREFLIGHT_CHECK=true
-ETHERSCAN_TOKEN=
 ```
-
 
