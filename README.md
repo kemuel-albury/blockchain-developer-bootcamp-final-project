@@ -4,13 +4,21 @@
 
 https://final-project-xyoungsavagex.netlify.app
 
-## How to run this project locally:
+## Setup
 
 ### Prerequisites
 - Python
 - Yarn
 - Node.js
 - Brownie and Ganache
+
+1. Clone the repo
+```
+git clone https://github.com/xyoungsavagex242/blockchain-developer-bootcamp-final-project
+cd blockchain-developer-bootcamp-final-project
+```
+2. Add a .env file to the project's root folder with the following:
+- [Environment Variables](#environment-variables)
 
 ### Frontend
 
