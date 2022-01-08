@@ -20,9 +20,22 @@ cd blockchain-developer-bootcamp-final-project
 2. Add a .env file to the project's root folder with the following:
 - [Environment Variables](#environment-variables-not-needed-for-running-tests)
 
+Make sure to save the file!
+
+3. In your terminal, run:
+```bash
+brownie run scripts/deploy.py --network rinkeby
+```
+
 ### Frontend
 
 - `cd front_end`
+
+- Add a .env file in this directory and add the following:
+```bash
+SKIP_PREFLIGHT_CHECK=true
+```
+Make sure to save the file!
 - `yarn install`
 - `yarn run start`
 - Open `http://localhost:3000`
