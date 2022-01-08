@@ -47,7 +47,7 @@ SKIP_PREFLIGHT_CHECK=true
 
 - Open `http://localhost:3000`(It should open automatically.)
 
-To get rewards for staking:
+## To get rewards for staking:
 - Open a new terminal
 - Run `brownie run scripts/issue_tokens.py --network rinkeby`
 - Refresh the webpage
