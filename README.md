@@ -41,7 +41,10 @@ https://youtu.be/KHewveZf7OY
 
 
 ## Directory structure
-
+- `contracts`: Smart contracts that are deployed in the Rinkeby testnet.
+- `front_end`: Project's React Frontend
+- `migrations`: Migration files for deploying contracts in `contracts` directory.
+- `test`: Tests for smart contracts.
 ## Environment variables (not needed for running tests)
 
 ```
