@@ -18,7 +18,7 @@ git clone https://github.com/xyoungsavagex242/blockchain-developer-bootcamp-fina
 cd blockchain-developer-bootcamp-final-project
 ```
 2. Add a .env file to the project's root folder with the following:
-- [Environment Variables](#environment-variables)
+- [Environment Variables](#environment-variables-not-needed-for-running-tests)
 
 ### Frontend
 
