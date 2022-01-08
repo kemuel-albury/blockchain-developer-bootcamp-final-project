@@ -12,6 +12,7 @@ https://final-project-xyoungsavagex.netlify.app
 - Node.js
 - Brownie and Ganache
 
+### Deploying the Smart Contracts
 1. Clone the repo
 ```
 git clone https://github.com/xyoungsavagex242/blockchain-developer-bootcamp-final-project
@@ -27,18 +28,20 @@ Make sure to save the file!
 brownie run scripts/deploy.py --network rinkeby
 ```
 
-### Frontend
+### Running the Frontend
 
-- `cd front_end`
+- Change your directory to front_end: `cd front_end`
 
 - Add a .env file in this directory and add the following:
 ```bash
 SKIP_PREFLIGHT_CHECK=true
 ```
 Make sure to save the file!
-- `yarn install`
-- `yarn run start`
-- Open `http://localhost:3000`
+- Install the dependencies: `yarn install`
+
+- View the frontend in your browser: `yarn run start`
+
+- Open `http://localhost:3000`(It should open automatically.)
 
 ## Screencast link
 https://youtu.be/KHewveZf7OY
