@@ -27,7 +27,7 @@ cd blockchain-developer-bootcamp-final-project
 ```bash
 brownie run scripts/deploy.py --network rinkeby
 ```
-### Running Tests
+### Running Tests Locally
 - In the project's root directory run the following in terminal:
 `brownie test`
 
@@ -47,7 +47,7 @@ SKIP_PREFLIGHT_CHECK=true
 
 - Open `http://localhost:3000`(It should open automatically.)
 
-## To get rewards for staking:
+### To get rewards for staking:
 - Open a new terminal
 - Run `brownie run scripts/issue_tokens.py --network rinkeby`
 - Refresh the webpage
