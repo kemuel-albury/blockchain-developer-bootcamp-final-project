@@ -27,8 +27,11 @@ Make sure to save the file!
 ```bash
 brownie run scripts/deploy.py --network rinkeby
 ```
+### Running Tests
+- In the project's root directory run the following in terminal:
+`brownie test`
 
-### Running the Frontend
+### Frontend
 
 - Change your directory to front_end: `cd front_end`
 
